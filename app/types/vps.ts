@@ -7,6 +7,7 @@ export interface VPSPlan {
   antiddos: ReactNode
   id: string
   name: string
+  description?: string
   badge?: string
   image: string
   oferta: string

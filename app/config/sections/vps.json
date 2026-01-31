@@ -182,6 +182,7 @@
       {
         "id": "AV-VPS-1",
         "name": "AVANZADO 1",
+        "description": "Excelente para websites y aplicaciones de bajo tráfico.",
         "badge": "€4.00",
         "oferta": "5%",
         "image": "/cpu/ryzen9.png",
@@ -204,6 +205,7 @@
       {
         "id": "AV-VPS-2",
         "name": "AVANZADO 2",
+        "description": "Ideal si comienzas en el web hosting o proyectos pequeños.",
         "badge": "€8.00",
         "oferta": "5%",
         "image": "/cpu/ryzen9.png",
@@ -226,6 +228,7 @@
       {
         "id": "AV-VPS-3",
         "name": "AVANZADO 3",
+        "description": "Perfecto para aplicaciones y sitios web de tráfico moderado.",
         "badge": "€16.00",
         "oferta": "5%",
         "image": "/cpu/ryzen9.png",
@@ -248,6 +251,7 @@
       {
         "id": "AV-VPS-4",
         "name": "AVANZADO 4",
+        "description": "Popular entre servidores de Minecraft que recién empiezan.",
         "badge": "€24.00",
         "oferta": "5%",
         "image": "/cpu/ryzen9.png",
@@ -270,6 +274,7 @@
       {
         "id": "AV-VPS-5",
         "name": "AVANZADO 5",
+        "description": "Ideal para proyectos en crecimiento y aplicaciones más exigentes.",
         "badge": "€32.00",
         "oferta": "10%",
         "image": "/cpu/ryzen9.png",
@@ -292,6 +297,7 @@
       {
         "id": "AV-VPS-6",
         "name": "AVANZADO 6",
+        "description": "Aprovecha que ofrecemos más recursos por menos.",
         "badge": "€48.00",
         "oferta": "10%",
         "image": "/cpu/ryzen9.png",
@@ -314,6 +320,7 @@
       {
         "id": "AV-VPS-7",
         "name": "AVANZADO 7",
+        "description": "Solución más popular para servidores de Minecraft medianos.",
         "badge": "€64.00",
         "oferta": "11%",
         "image": "/cpu/ryzen9.png",
@@ -336,6 +343,7 @@
       {
         "id": "AV-VPS-8",
         "name": "AVANZADO 8",
+        "description": "Mayor velocidad y control con un precio accesible",
         "badge": "€96.00",
         "oferta": "15%",
         "image": "/cpu/ryzen9.png",
@@ -358,6 +366,7 @@
       {
         "id": "AV-VPS-9",
         "name": "AVANZADO 9",
+        "description": "Diseñado para empresas y aplicaciones críticas de misión.",
         "badge": "€128.00",
         "oferta": "25%",
         "image": "/cpu/ryzen9.png",
@@ -380,6 +389,7 @@
       {
         "id": "AV-VPS-10",
         "name": "AVANZADO 10",
+        "description": "Recursos dedicados para las aplicaciones y sitios web más exigentes.",
         "badge": "€192.00",
         "oferta": "45%",
         "image": "/cpu/ryzen9.png",

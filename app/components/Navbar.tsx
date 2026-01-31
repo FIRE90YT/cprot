@@ -569,7 +569,7 @@ const Navbar: React.FC = () => {
                 <span className="text-xs sm:text-sm md:text-base text-white font-medium">{config.banner.text}</span>
                 <button
                   onClick={handleCopyCode}
-                  className="bg-white/20 hover:bg-white/30 px-1.5 sm:px-2 md:px-3 py-1 rounded text-xs font-bold transition-colors cursor-pointer whitespace-nowrap flex-shrink-0 text-white border border-white/30 hover:border-white/50"
+                  className="bg-white/20 hover:bg-white/30 px-2 sm:px-3 md:px-4 py-1 rounded text-s font-bold transition-colors cursor-pointer whitespace-nowrap flex-shrink-0 text-white border border-white/30 hover:border-white/50"
                 >
                   {config.banner.couponCode}
                 </button>
@@ -579,7 +579,7 @@ const Navbar: React.FC = () => {
                 onClick={() => setShowBanner(false)}
                 aria-label="Close banner"
               >
-                <X className="w-4 h-4" />
+                <X className="w-6 h-6" />
               </button>
 
             </div>
